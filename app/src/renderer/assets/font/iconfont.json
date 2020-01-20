@@ -1,0 +1,303 @@
+{
+  "id": "1471097",
+  "name": "工业控制面板",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "11405149",
+      "name": "用户名",
+      "font_class": "yonghuming",
+      "unicode": "e647",
+      "unicode_decimal": 58951
+    },
+    {
+      "icon_id": "11405775",
+      "name": "密码",
+      "font_class": "mima",
+      "unicode": "e648",
+      "unicode_decimal": 58952
+    },
+    {
+      "icon_id": "11443743",
+      "name": "报警日志-01",
+      "font_class": "baojingrizhi-",
+      "unicode": "e649",
+      "unicode_decimal": 58953
+    },
+    {
+      "icon_id": "11443744",
+      "name": "本地-01",
+      "font_class": "bendi-",
+      "unicode": "e64a",
+      "unicode_decimal": 58954
+    },
+    {
+      "icon_id": "11443745",
+      "name": "操作日志-01",
+      "font_class": "caozuorizhi-",
+      "unicode": "e64b",
+      "unicode_decimal": 58955
+    },
+    {
+      "icon_id": "11443746",
+      "name": "错误-01",
+      "font_class": "cuowu-",
+      "unicode": "e64c",
+      "unicode_decimal": 58956
+    },
+    {
+      "icon_id": "11443747",
+      "name": "端口配置-01",
+      "font_class": "duankoupeizhi-",
+      "unicode": "e64d",
+      "unicode_decimal": 58957
+    },
+    {
+      "icon_id": "11443748",
+      "name": "测量头选择-01",
+      "font_class": "celiangtouxuanze-",
+      "unicode": "e64e",
+      "unicode_decimal": 58958
+    },
+    {
+      "icon_id": "11443749",
+      "name": "登录头像-01",
+      "font_class": "denglutouxiang-",
+      "unicode": "e64f",
+      "unicode_decimal": 58959
+    },
+    {
+      "icon_id": "11443750",
+      "name": "工作界面-01",
+      "font_class": "gongzuojiemian-",
+      "unicode": "e650",
+      "unicode_decimal": 58960
+    },
+    {
+      "icon_id": "11443751",
+      "name": "地面系统-01",
+      "font_class": "dimianxitong-",
+      "unicode": "e651",
+      "unicode_decimal": 58961
+    },
+    {
+      "icon_id": "11443752",
+      "name": "警告-01",
+      "font_class": "jinggao-",
+      "unicode": "e652",
+      "unicode_decimal": 58962
+    },
+    {
+      "icon_id": "11443753",
+      "name": "井口施工信息-01",
+      "font_class": "jingkoushigongxinxi-",
+      "unicode": "e653",
+      "unicode_decimal": 58963
+    },
+    {
+      "icon_id": "11443754",
+      "name": "控制器参数-01",
+      "font_class": "kongzhiqicanshu-",
+      "unicode": "e654",
+      "unicode_decimal": 58964
+    },
+    {
+      "icon_id": "11443755",
+      "name": "关机-01",
+      "font_class": "guanji-",
+      "unicode": "e655",
+      "unicode_decimal": 58965
+    },
+    {
+      "icon_id": "11443756",
+      "name": "开始工作-01",
+      "font_class": "kaishigongzuo-",
+      "unicode": "e656",
+      "unicode_decimal": 58966
+    },
+    {
+      "icon_id": "11443757",
+      "name": "深度校深-01",
+      "font_class": "shenduxiaoshen-",
+      "unicode": "e657",
+      "unicode_decimal": 58967
+    },
+    {
+      "icon_id": "11443758",
+      "name": "张力刻度-01",
+      "font_class": "zhanglikedu-",
+      "unicode": "e658",
+      "unicode_decimal": 58968
+    },
+    {
+      "icon_id": "11443759",
+      "name": "退出-01",
+      "font_class": "tuichu-",
+      "unicode": "e659",
+      "unicode_decimal": 58969
+    },
+    {
+      "icon_id": "11443760",
+      "name": "锁屏-01",
+      "font_class": "suoping-",
+      "unicode": "e65a",
+      "unicode_decimal": 58970
+    },
+    {
+      "icon_id": "11443761",
+      "name": "主界面-01",
+      "font_class": "zhujiemian-",
+      "unicode": "e65b",
+      "unicode_decimal": 58971
+    },
+    {
+      "icon_id": "11443762",
+      "name": "缆绳选择-01",
+      "font_class": "lanshengxuanze-",
+      "unicode": "e65c",
+      "unicode_decimal": 58972
+    },
+    {
+      "icon_id": "11443763",
+      "name": "设备管理-01",
+      "font_class": "shebeiguanli-",
+      "unicode": "e65d",
+      "unicode_decimal": 58973
+    },
+    {
+      "icon_id": "11449206",
+      "name": "作业-01",
+      "font_class": "zuoye-",
+      "unicode": "e65e",
+      "unicode_decimal": 58974
+    },
+    {
+      "icon_id": "11449207",
+      "name": "中文-01",
+      "font_class": "zhongwen-",
+      "unicode": "e65f",
+      "unicode_decimal": 58975
+    },
+    {
+      "icon_id": "11449208",
+      "name": "英文-01",
+      "font_class": "yingwen-",
+      "unicode": "e660",
+      "unicode_decimal": 58976
+    },
+    {
+      "icon_id": "11450060",
+      "name": "返回-01",
+      "font_class": "fanhui-",
+      "unicode": "e661",
+      "unicode_decimal": 58977
+    },
+    {
+      "icon_id": "11461880",
+      "name": "导出-01",
+      "font_class": "daochu-",
+      "unicode": "e662",
+      "unicode_decimal": 58978
+    },
+    {
+      "icon_id": "11566229",
+      "name": "解锁-01",
+      "font_class": "jiesuo-",
+      "unicode": "e663",
+      "unicode_decimal": 58979
+    },
+    {
+      "icon_id": "11631809",
+      "name": "本地-01",
+      "font_class": "bendi-1",
+      "unicode": "e664",
+      "unicode_decimal": 58980
+    },
+    {
+      "icon_id": "11631810",
+      "name": "地面数据-01",
+      "font_class": "dimianshuju-",
+      "unicode": "e665",
+      "unicode_decimal": 58981
+    },
+    {
+      "icon_id": "11631811",
+      "name": "解锁-01",
+      "font_class": "jiesuo-1",
+      "unicode": "e666",
+      "unicode_decimal": 58982
+    },
+    {
+      "icon_id": "11787603",
+      "name": "井口试压-01",
+      "font_class": "jingkoushiya-",
+      "unicode": "e667",
+      "unicode_decimal": 58983
+    },
+    {
+      "icon_id": "11871854",
+      "name": "箭头-01",
+      "font_class": "jiantou-",
+      "unicode": "e668",
+      "unicode_decimal": 58984
+    },
+    {
+      "icon_id": "11871855",
+      "name": "删除-01",
+      "font_class": "shanchu-",
+      "unicode": "e669",
+      "unicode_decimal": 58985
+    },
+    {
+      "icon_id": "11871856",
+      "name": "enter键-01",
+      "font_class": "enterjian-",
+      "unicode": "e66a",
+      "unicode_decimal": 58986
+    },
+    {
+      "icon_id": "11871857",
+      "name": "翻页-01",
+      "font_class": "fanye-",
+      "unicode": "e66b",
+      "unicode_decimal": 58987
+    },
+    {
+      "icon_id": "11871858",
+      "name": "键盘-01",
+      "font_class": "jianpan-",
+      "unicode": "e66c",
+      "unicode_decimal": 58988
+    },
+    {
+      "icon_id": "11871859",
+      "name": "空格键-01",
+      "font_class": "konggejian-",
+      "unicode": "e66d",
+      "unicode_decimal": 58989
+    },
+    {
+      "icon_id": "12285365",
+      "name": "声音-01",
+      "font_class": "shengyin-",
+      "unicode": "e66e",
+      "unicode_decimal": 58990
+    },
+    {
+      "icon_id": "12285366",
+      "name": "重置-01",
+      "font_class": "zhongzhi-",
+      "unicode": "e66f",
+      "unicode_decimal": 58991
+    },
+    {
+      "icon_id": "12285367",
+      "name": "静音-01",
+      "font_class": "jingyin-",
+      "unicode": "e670",
+      "unicode_decimal": 58992
+    }
+  ]
+}
