@@ -1,0 +1,316 @@
+.el-input__inner {
+  background: #233149 !important;
+  border: none !important;
+  color: #b2bdcd !important;
+}
+
+.el-select .el-input .el-select__caret {
+  color: #199af5 !important;
+}
+
+.el-select-dropdown {
+  background: #233149;
+  border: none;
+}
+
+.el-popper[x-placement^=bottom] .popper__arrow {
+  border-bottom-color: #233149
+}
+
+.el-popper[x-placement^=bottom] .popper__arrow::after {
+  border-bottom-color: #233149;
+}
+
+.el-input-group__append {
+  background-color: #199af5;
+  border: none;
+  color: white;
+  cursor: pointer;
+}
+
+.cursor {
+  cursor: pointer;
+}
+
+.el-switch__core {
+  border: 1px solid #199af5;
+  background: #161e2c;
+
+  &:after {
+    background: #199af5;
+  }
+}
+
+.el-switch.is-checked .el-switch__core {
+  background: #161e2c;
+}
+
+.color-blue {
+  color: #199af5;
+}
+
+.mg-l-10 {
+  margin-left: 10px;
+}
+
+.mg-l-15 {
+  margin-left: 15px;
+}
+
+.mg-t-20 {
+  margin-top: 20px;
+}
+
+.mg-r-10 {
+  margin-right: 10px;
+}
+
+.el-pagination {
+  text-align: center;
+  width: 100%;
+  word-wrap:break-word ;
+  white-space: inherit!important;
+  line-height: 35px;
+  span{
+    display: block;
+  }
+}
+
+::-webkit-scrollbar {
+  width: 10px; //y轴上的滚动条宽度
+  height: 10px; //x轴上滚动条高度
+}
+
+::-webkit-scrollbar-track {
+  //border-radius: 3px; /*滚动条的背景区域的圆角*/
+  background-color: #121926;
+  /*滚动条的背景颜色*/
+}
+
+::-webkit-scrollbar-thumb {
+  //border-radius: 3px; /*滚动条的圆角*/
+  background-color: #199af5;
+  /*滚动条的背景颜色*/
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background-color: rgb(46, 86, 159);
+}
+
+::-webkit-scrollbar-thumb:active {
+  background-color: rgb(46, 86, 159);
+  cursor: pointer;
+}
+
+.el-pagination.is-background .btn-next,
+.el-pagination.is-background .btn-prev,
+.el-pagination.is-background .el-pager li {
+  background: #273753;
+}
+
+.el-table td,
+.el-table th.is-leaf {
+  border-bottom: none;
+  color: #b1bdcd;
+}
+
+.el-table--border::after,
+.el-table--group::after,
+.el-table::before {
+  background: none;
+}
+
+.el-checkbox__inner {
+  background: none;
+  border: 1px solid #199af5;
+}
+
+.el-table--enable-row-hover .el-table__body tr:hover>td {
+  background-color: #212e3e !important;
+}
+
+.el-table td {
+  border-bottom: 1px solid #353f53;
+}
+
+.el-table .single-row {
+  background-color: #1b2333;
+}
+
+.el-table .double-row {
+  background-color: #161e2c;
+}
+
+.bigBox {
+  background-color: #1b2333;
+  padding-top: 1px;
+  width: 98%;
+  margin: 0 auto;
+  border-radius: 10px;
+}
+
+.el-form-item__label {
+  color: #fff;
+}
+
+.el-select-dropdown__item.hover {
+  background-color: #199af5;
+  color: white;
+}
+
+.el-select-dropdown__item:hover {
+  background-color: #199af5;
+}
+
+.common-box-contain {
+  width: 97%;
+  background: #1b2333;
+  border-radius: 10px;
+  /*height: 300px;*/
+  margin: 20px 1.5% 20px 1.2%;
+}
+
+.el-textarea__inner {
+  background: #233149;
+  border: none;
+  color: #b2bdcd;
+  height: 250px!important;
+  
+}
+
+.upload-device {
+  .el-upload {
+    width: 82px;
+    height: 29px;
+    line-height: 29px;
+    background: none;
+    border: none;
+  }
+}
+
+.el-table__empty-block {
+  background: #233149;
+}
+
+.ql-toolbar {
+  background-color: #199af5
+}
+
+.ql-container {
+  min-height: 300px;
+}
+.ql-blank{
+  height: 300px!important;
+}
+.el-tabs--border-card {
+  border: 0;
+  box-shadow: 0;
+}
+
+.el-tabs__nav-scroll {
+  background-color: #263853;
+}
+
+.el-tabs--border-card>.el-tabs__header .el-tabs__item.is-active {
+  background-color: #199bf4;
+  color: #fff;
+  border: 0;
+}
+
+.el-tabs--border-card>.el-tabs__content {
+  background-color: #121926;
+  padding: 0;
+}
+
+.el-breadcrumb__inner {
+  a {
+    color: #b2bdcd;
+  }
+}
+
+.permission-list {
+  .el-tree-node__content:hover {
+    background: #202d43;
+  }
+
+  .is-current {
+    background: #202d43;
+  }
+
+  .el-tree-node:focus>.el-tree-node__content {
+    background: #202d43;
+  }
+}
+.BMap_pop div:nth-child(1) {
+  border-radius: 7px 0 0 0;
+}
+.BMap_pop div:nth-child(3) {
+  border-radius: 0 7px 0 0;
+}
+.BMap_pop div:nth-child(5) {
+  border-radius: 0 0 0 7px;
+}
+.BMap_pop div:nth-child(7) {
+  border-radius: 0 0 7px 0;
+}
+.el-select-dropdown__item.is-disabled:hover{
+  background-color: #233149;
+}
+.el-select-dropdown__item.is-disabled{
+  color: #606266;
+}
+// .BMap_noprint{
+//   display: none!important;   影响地图marker点击
+// }
+.ql-snow{
+  border: 0!important;
+}
+.ql-toolbar{
+  padding-top: 0!important;
+}
+.ql-container{
+  background-color: #263853;
+}
+.el-tabs__item:hover{
+  color: #ffffff!important;
+  }
+  .btn-custom-cancel {
+    float: right;
+    margin-left: 10px;
+  }
+  .el-table--scrollable-x{
+    background-color: #1b2333!important; 
+  }
+  ::-webkit-scrollbar {
+    width: 7px; /*滚动条宽度*/
+    height: 7px; /*滚动条高度*/
+    background-color: #1b2333!important;
+    }
+    ::-webkit-scrollbar-corner{
+      background-color: rgba(0,0,0,.4);
+  }
+  .ql-tooltip{
+    left: 0!important;
+  }
+  .mark .el-input .el-input__inner{
+    height: 80px!important;
+  }
+  .el-table th{
+    background-color:#273753!important;
+  }
+  
+input::-webkit-input-placeholder,
+input:-moz-placeholder,  
+input::-moz-placeholder, 
+input:-ms-input-placeholder  { //IE 10
+    color:#ffffff!important;
+}
+    
+input:-moz-placeholder,input::-moz-placeholder {
+    opacity:1!important;
+}
+.el-date-editor {
+    input::-moz-placeholder {
+        color: black
+    }
+}

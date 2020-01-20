@@ -1,0 +1,13 @@
+{
+"companyName": "vsz",
+"productName": "tm_3d",
+"dataUrl": "Building.data.unityweb",
+"wasmCodeUrl": "Building.wasm.code.unityweb",
+"wasmFrameworkUrl": "Building.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Light",
+"backgroundColor": "#828080",
+"cacheControl": {"default": "must-revalidate"}
+}
