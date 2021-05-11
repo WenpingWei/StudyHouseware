@@ -75,7 +75,7 @@
     "fastclick": "^1.0.6",
     "hocon-parser": "^1.0.1",
     "iconv-lite": "^0.5.0",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "modbus-serial": "^7.7.2",
     "mqtt": "^3.0.0",
     "rage-edit": "^1.2.0",
